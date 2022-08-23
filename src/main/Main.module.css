@@ -1,0 +1,15 @@
+.mainBlock {
+    height: 100vh;
+    background-color: darkslateblue;
+}
+
+.text {
+    width: 300px;
+    background-color: aquamarine;
+}
+
+.photo {
+    width: 200px;
+    height: 300px;
+    background-color: aquamarine;
+}
