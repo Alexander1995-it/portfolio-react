@@ -1,0 +1,10 @@
+.contactsBlock {
+    height: 50vh;
+    background-color: darkgray;
+}
+
+.container {
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
