@@ -7,7 +7,6 @@ import Сontacts from "./contacts/Сontacts";
 import Footer from "./footer/Footer";
 
 function App() {
-    console.log ('fix 1')
     return (
         <div className="App">
             <Header/>
