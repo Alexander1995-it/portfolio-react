@@ -10,10 +10,25 @@
 }
 
 .projects {
-    width: 80%;
+    width: 70%;
     border: 1px solid #cdc030;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    align-items: flex-start;
+}
 
+.title {
+    position: relative;
+}
+
+.title:after {
+    content: '';
+    width: 50px;
+    height: 2px;
+    background-color: darkslateblue;
+    position: absolute;
+    bottom: -15px;
+    left: 50%;
+    transform: translate(-50%, 50%);
 }

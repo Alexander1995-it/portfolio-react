@@ -1,0 +1,16 @@
+.WatchBtn {
+    min-width: 100px;
+    height: 40px;
+    background-color: darkslateblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    position: relative;
+}
+
+.WatchBtn span {
+    font-family: Calibri;
+    color: aquamarine;
+}
+

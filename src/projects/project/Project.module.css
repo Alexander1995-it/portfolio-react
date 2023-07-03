@@ -6,4 +6,33 @@
     background-color: dimgray;
     width: 160px;
     height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+
 }
+
+.images:hover:before {
+    position: absolute;
+    content: '';
+    background-color: black;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.5;
+
+}
+
+.btnProject {
+    display: none;
+}
+
+.images:hover .btnProject {
+    display: block;
+}
+
+
