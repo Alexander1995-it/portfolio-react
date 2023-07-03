@@ -13,6 +13,7 @@ function App() {
             <Main/>
             <Main/>
             <Skills/>
+            <Skills/>
             <Projects/>
             <Сontacts/>
             <Footer/>
