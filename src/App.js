@@ -13,7 +13,6 @@ function App() {
             <Main/>
             <Main/>
             <Skills/>
-            <Skills/>
             <Projects/>
             <Projects/>
             <Сontacts/>
