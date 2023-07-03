@@ -15,6 +15,7 @@ function App() {
             <Skills/>
             <Skills/>
             <Projects/>
+            <Projects/>
             <Сontacts/>
             <Footer/>
         </div>
