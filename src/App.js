@@ -12,7 +12,6 @@ function App() {
             <Header/>
             <Main/>
             <Skills/>
-            <Skills/>
             <Projects/>
             <Сontacts/>
             <Footer/>
