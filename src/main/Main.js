@@ -3,6 +3,7 @@ import style from './Main.module.css'
 import styleContainer from './../common/styles/Container.module.css'
 
 const Main = () => {
+    console.log ('main')
     return (
         <div className={style.mainBlock}>
             <div className={styleContainer.container}>
